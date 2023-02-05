@@ -3,6 +3,14 @@
 
 Live : https://th3-project.vercel.app/
 
+## Screenshots
+
+![Community](./imagesDoc/community.png)
+![CoursePaths](./imagesDoc/course%20paths.png)
+![Class](./imagesDoc/class.png)
+![Gamification](./imagesDoc/gamification.png)
+![Explore](./imagesDoc/explore.png)
+
 ------------
 
 ##  Problem I am Solving: 

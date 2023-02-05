@@ -477,7 +477,7 @@ const Index = () => {
                             {/* ---- LOGO ---- */}
                             <Link href={'/'} className='flex justify-center items-center space-x-3'>
                                 <Image src={logoTwo as any} alt="logo" className='w-6 h-6 rounded-full' width={6} height={6} unoptimized quality={100} />
-                                <span className='font-semibold'> CommComm </span>
+                                <span className='font-semibold'> Learn City </span>
                             </Link>
 
                             {/* ---- Heading and info ----- */}
